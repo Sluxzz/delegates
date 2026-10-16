@@ -12,3 +12,4 @@ C:\Users\misab\OneDrive\Рабочий стол\delegates\obj\Debug\net10.0\refi
 C:\Users\misab\OneDrive\Рабочий стол\delegates\obj\Debug\net10.0\delegates.pdb
 C:\Users\misab\OneDrive\Рабочий стол\delegates\obj\Debug\net10.0\delegates.genruntimeconfig.cache
 C:\Users\misab\OneDrive\Рабочий стол\delegates\obj\Debug\net10.0\ref\delegates.dll
+C:\Users\misab\OneDrive\Рабочий стол\delegates\obj\Debug\net10.0\delegates.sourcelink.json

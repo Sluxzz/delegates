@@ -69,7 +69,7 @@ namespace Delegates
             System.Console.WriteLine(CountRus("Hello! Меня зовут андрей!"));
             System.Console.WriteLine(Count("Hello! Меня зовут андрей!",IsLat));
             System.Console.WriteLine(Count("Hello! Меня зовут андрей!",IsRus));
-            System.Console.WriteLine(Count("28 лет", IsDigit));
+            System.Console.WriteLine(Count("28 лет", IsDigit) + ' ' + Count("Я Олег, приятно познакомиться", IsRus));
         }
     }
 }
